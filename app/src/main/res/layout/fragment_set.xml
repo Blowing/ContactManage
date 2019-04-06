@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ImageView android:layout_width="match_parent" android:layout_height="200dp"
+               android:background="@color/colorPrimary"/>
+
+    <Button
+            android:id="@+id/set_btn_log_out"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="退出登录"/>
+
+    <Button
+            android:id="@+id/set_btn_ret_psw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="visible"
+            android:text="重置密码"/>
+
+</LinearLayout>

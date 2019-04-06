@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactManage</string>
+    <!--登录账号管理模块 -->
+    <string name="btn_login">登录</string>
+    <string name="btn_register">注册</string>
+    <string name="btn_forgetpwd">忘记密码</string>
+    <string name="hint_account">手机号</string>
+    <string name="hint_password">密码</string>
+    <string name="btn_to_login">去登录</string>
+</resources>
